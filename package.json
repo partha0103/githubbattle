@@ -1,0 +1,19 @@
+{
+  "name": "githubbattle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partha0103/githubbattle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/partha0103/githubbattle/issues"
+  },
+  "homepage": "https://github.com/partha0103/githubbattle#readme"
+}
