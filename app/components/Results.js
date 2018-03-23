@@ -77,7 +77,7 @@ class Results extends React.Component{
 		var loading = this.state.loading;
 
 		if(loading === true){
-			return <p>Loading...</p>
+			return <Loading />
 		}
 
 		if(error){
